@@ -1,0 +1,16 @@
+c:\users\tahmedge\documents\visual studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\bin\Debug\SymptomCheckerThesis.exe.config
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\bin\Debug\SymptomCheckerThesis.exe
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\bin\Debug\SymptomCheckerThesis.pdb
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.csprojResolveAssemblyReference.cache
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.Form1.resources
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.Form2.resources
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.Form3.resources
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.Properties.Resources.resources
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.csproj.GenerateResource.Cache
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.exe
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.pdb
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Tahmedge\Documents\Visual Studio 2015\Projects\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.Form4.resources
+H:\Visual Studio Projects (2016)\SymptomCheckerThesis\SymptomCheckerThesis\bin\Debug\SymptomCheckerThesis.exe.config
+H:\Visual Studio Projects (2016)\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.exe
+H:\Visual Studio Projects (2016)\SymptomCheckerThesis\SymptomCheckerThesis\obj\Debug\SymptomCheckerThesis.pdb
